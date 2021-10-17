@@ -1,6 +1,6 @@
 # Say My Brand 2.0 - Semana 2
 
-Hola y Bienvenidos a mis notas del reto sayMaybrand, estoy empezando a hacer notas en markdown que, para mi, personalmente es más cómodo de compartir:
+Hola y Bienvenidos a mis notas del reto sayMaybrand, donde explicare mi progreso durante cada clase, y mis respuestas en cada reto, ademas de mostrar:  
 
 - Como desarrollo los objetivos semanales.
 - Comprendo como manejar mi imagen online.
